@@ -1,0 +1,60 @@
+{
+  "generatedBy": "scripts/extract-palette.mjs",
+  "files": {
+    "transparent": "LOGO OPENHASH PNG...png",
+    "opaque": "LOGO OPENHASH PNG.png"
+  },
+  "png": {
+    "transparent": {
+      "colorType": 6,
+      "alphaOpaquePixels": 561195
+    },
+    "opaque": {
+      "colorType": 6
+    }
+  },
+  "colours": [
+    {
+      "name": "brand-deep",
+      "hex": "#340380",
+      "source": "brand/LOGO OPENHASH PNG...png",
+      "method": "median of opaque mark pixels in the 1th luminance percentile band",
+      "support": 5952
+    },
+    {
+      "name": "brand-dark",
+      "hex": "#480ea0",
+      "source": "brand/LOGO OPENHASH PNG...png",
+      "method": "median of opaque mark pixels in the 20th luminance percentile band",
+      "support": 13283
+    },
+    {
+      "name": "brand-mid",
+      "hex": "#6219c7",
+      "source": "brand/LOGO OPENHASH PNG...png",
+      "method": "median of opaque mark pixels in the 50th luminance percentile band",
+      "support": 24388
+    },
+    {
+      "name": "brand-bright",
+      "hex": "#7f22f0",
+      "source": "brand/LOGO OPENHASH PNG...png",
+      "method": "median of opaque mark pixels in the 80th luminance percentile band",
+      "support": 15406
+    },
+    {
+      "name": "brand-glow",
+      "hex": "#8828fc",
+      "source": "brand/LOGO OPENHASH PNG...png",
+      "method": "median of opaque mark pixels in the 99th luminance percentile band",
+      "support": 47084
+    },
+    {
+      "name": "brand-canvas",
+      "hex": "#f8f7fc",
+      "source": "brand/LOGO OPENHASH PNG.png",
+      "method": "corner pixel; the artwork background",
+      "support": 3382761
+    }
+  ]
+}
